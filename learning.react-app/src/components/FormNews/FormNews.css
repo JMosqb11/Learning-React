@@ -1,0 +1,18 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+input{
+    width: 800px;
+    height: 40px;
+}
+
+textarea{
+    width: 800px;
+    height: 300px;
+    resize: none;
+}
+

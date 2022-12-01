@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.portada{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px ;
+    margin-top: 15px;
+}
+
+.tituloPeliculas{
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
